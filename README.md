@@ -1,1 +1,2 @@
 # README
+start not easy
